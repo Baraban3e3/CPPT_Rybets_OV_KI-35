@@ -1,0 +1,5 @@
+New state of keyboard: true
+New state of monitor: true
+New state of monitor: false
+New state of mouse: true
+New state of keyboard: false

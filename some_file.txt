@@ -1,0 +1,19 @@
+Keyboard connected!!!
+Monitor connected!!!
+Current state of monitor:true
+Current state of keyboard:true
+Current state of mouse:false
+
+
+Monitor removed!!!
+Monitor is disconnected
+
+
+Mouse connected!!!
+Current state of monitor:false
+Current state of keyboard:true
+Current state of mouse:true
+
+
+Keyboard removed!!!
+Keyboard is disconnected
